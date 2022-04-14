@@ -6,11 +6,11 @@ Espero que gostem! :smile:
 
 
 
-### Git
+## Git
 
 [Git](https://git-scm.com/) é um sistema de versionamento de código distribuído, criado por Linus Torvalds em 2005. 
 
-É muito importante diferenciar Git de GitHub, já que são ferramentas diferentes, mas que em certo ponto, se relacionam.
+É muito importante diferenciar Git de GitHub, já que são ferramentas diferentes, mas que em certo ponto se relacionam.
 
 
 
