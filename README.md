@@ -16,7 +16,9 @@ Espero que gostem! :smile:
 
 ## GitHub
 
-GitHub é uma plataforma de hospedagem de repositórios e rede social para desenvolvedores. É muito importante sempre manter sua conta do GitHub atualizada, adicionando projetos novos e fazendo contribuições em outras aplicações, pois muitas empresas a levam em consideração na hora da contratação.
+[GitHub](https://github.com/) é uma plataforma de hospedagem de repositórios e rede social para desenvolvedores. 
+
+É muito importante sempre manter sua conta do GitHub atualizada, adicionando projetos novos e fazendo contribuições em outras aplicações, pois muitas empresas a levam em consideração na hora da contratação.
 
 
 
